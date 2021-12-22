@@ -1,0 +1,6 @@
+framework module Pods_registroDiabetes {
+  umbrella header "Pods-registroDiabetes-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>323337539743-stpudnqfh4rkhusshk1hoa2vblnmjvj9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323337539743-stpudnqfh4rkhusshk1hoa2vblnmjvj9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApG83nf8M5Z5JZEmUeMIPHcEOi_dSsx34</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323337539743</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.devlabs.registroDiabetes</string>
+	<key>PROJECT_ID</key>
+	<string>registro-7f59e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>registro-7f59e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323337539743:ios:9974c0fd6bfa3e11</string>
+	<key>DATABASE_URL</key>
+	<string>https://registro-7f59e.firebaseio.com</string>
+</dict>
+</plist>
